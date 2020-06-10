@@ -2,20 +2,17 @@ header {
     color: #313944;
     font-family: roboto;
     padding-left: 500px;
-    padding-top: 90px;
+    padding-right: 500px;
+    padding-top: 2px;
 }
-
 
 body {
     background-color: gainsboro;
 }
 
-
 div {
     background-color: white;
-    margin-left: 20px
 }
-
 
 #logo {
     margin-left: 120px;
@@ -25,16 +22,31 @@ main {
     font-size: px;
 }
 
+hr{
+    margin-right: 150px;
+}
+
+strong1{
+    font-size: 30px
+}
+
 input {
     margin-left: 150px;
-    
+}
+
+#name {
+    margin-right: 55px;
+}
+
+#tel {
+    width: 87px;
 }
 
 #button2 {
-    margin-left: 220px;
+    margin-left: 250px;
 }
 
 #logo2 {
-    margin-left: 280px;
+    margin-left: 300px;
     height: 50px;
 }
