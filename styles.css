@@ -1,7 +1,7 @@
 header {
     color: #313944;
     font-family: roboto;
-    padding-left: 500px;
+    padding-left: 550px;
     padding-right: 500px;
     padding-top: 2px;
 }
@@ -16,9 +16,10 @@ div {
 
 #logo {
     margin-left: 120px;
+    height: 200px;
 }
 main {
-    margin-left: 90px;
+    margin-left: 150px;
     font-size: px;
 }
 
@@ -47,6 +48,6 @@ input {
 }
 
 #logo2 {
-    margin-left: 300px;
+    margin-left: 370px;
     height: 50px;
 }
